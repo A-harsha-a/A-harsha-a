@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/A-harsha-a/A-harsha-a/main/header.svg" width="100%" alt="Aradhyula Harsha - AI & Machine Learning Engineer Header Banner" />
+  <img src="header.png" width="100%" alt="Aradhyula Harsha - AI & Machine Learning Engineer Header Banner" />
 </div>
 
 <br/>
