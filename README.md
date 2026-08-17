@@ -1,6 +1,6 @@
-<div align="center">
-  <img src="header.png" width="100%" alt="Aradhyula Harsha - AI & Machine Learning Engineer Header Banner" />
-</div>
+<p align="center">
+  <img src="banner.png" alt="Aradhyula Harsha - AI & Machine Learning Engineer Header Banner" width="100%" />
+</p>
 
 <br/>
 
